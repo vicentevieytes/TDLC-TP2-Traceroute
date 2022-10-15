@@ -9,8 +9,8 @@ from Modified_Thompson_Tau_Test.modified_thompson_tau_test import run_modified_t
 
 # Parámetros ajustables
 maxTTL = 30
-destino = "qu.edu.qa"
-cantidadDeMediciones = 5
+destino = "acpe.edu.au"
+cantidadDeMediciones = 30
 
 def traceroute(url):
     print(f'\nTracerouting a {destino}')

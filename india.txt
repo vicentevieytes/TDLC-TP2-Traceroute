@@ -463,3 +463,112 @@ RTT entre 103.198.140.40 y 49.45.4.252: 10.23
 2  104.940           1
 5  221.175           1
 0  293.620           1
+
+INFO por IP
+
+192.168.1.1 - LOCAL
+--------------------
+ip:"181.96.112.126",
+hostname:"host126.181-96-112.telecom.net.ar",
+city:"Buenos Aires",
+region:"Buenos Aires F.D.",
+country:"AR",
+company_type:"isp",
+
+--------------------
+
+ip:"181.88.170.212",
+hostname:"host212.181-88-170.telecom.net.ar",
+city:"Buenos Aires",
+region:"Buenos Aires F.D.",
+country:"AR",
+company_type:"isp",
+
+--------------------
+
+ip:"181.96.113.234",
+hostname:"host234.181-96-113.telecom.net.ar",
+city:"Buenos Aires",
+region:"Buenos Aires F.D.",
+country:"AR",
+company_type:"isp",
+
+--------------------
+
+ip:"195.22.220.56",
+hostname:"ae13.baires3.bai.seabone.net",
+city:"Buenos Aires",
+region:"Buenos Aires F.D.",
+country:"AR",
+company_type:"isp",
+
+--------------------
+
+ip:"149.3.181.65",
+hostname:"ntt-verio.sanpaolo8.spa.seabone.net",
+city:"Rome",
+region:"Lazio",
+country:"IT",
+company_type:"isp",
+
+--------------------
+
+ip:"129.250.5.24",
+hostname:"ae-2.r00.saplbr02.br.bb.gin.ntt.net",
+city:"São Paulo",
+region:"São Paulo",
+country:"BR",
+company_type:"isp",
+
+--------------------
+
+ip:"129.250.2.12",
+hostname:"ae-8.r20.nwrknj03.us.bb.gin.ntt.net",
+city:"Newark",
+region:"New Jersey",
+country:"US",
+company_type:"isp",
+
+--------------------
+
+ip: "129.250.6.81",
+hostname:"ae-19.r00.nycmny17.us.bb.gin.ntt.net",
+city:"New York City",
+region:"New York",
+country:"US",
+company_type:"isp",
+
+--------------------
+
+ip:"128.241.7.159",
+hostname:"ae-0.reliance-jio-infocomm.nycmny17.us.bb.gin.ntt.net",
+city:"New York City",
+region:"New York",
+country:"US",
+company_type:"isp",
+
+--------------------
+
+ip:"103.198.140.55",
+city:"Singapore",
+org:"AS64049 Reliance Jio Infocomm Pte Ltd Singapore",
+region:"Singapore",
+country:"SG",
+company_type: "business"
+
+--------------------
+
+103.198.140.40
+Continent	Asia (AS)
+País	Singapur flag Singapur (SG)
+ISP	Reliance Jio Infocomm Pte Ltd Singapore
+
+
+--------------------
+
+49.45.4.252
+Continent	Asia (AS)
+País	India flag India (IN)
+ISP	Reliance Jio Infocomm Pte Ltd Singapore
+
+-------------------- 
